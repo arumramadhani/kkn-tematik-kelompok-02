@@ -316,6 +316,7 @@ nav ul li a:hover{
     color:#1B5E20;
     line-height:1.2;
     margin-bottom:30px;
+    text-align:center;
 }
 
 .welcome-text p{
@@ -605,8 +606,8 @@ nav ul li a:hover{
 }
 
 .info-title h2{
-    color: #000;
-    font-size: 48px;
+    color: #117009;
+    font-size: 34px;
     font-weight: 800;
 }
 
@@ -989,6 +990,7 @@ nav ul li a:hover{
         font-size:34px;
         line-height:1.25;
         margin-bottom:20px;
+        text-align: center;
     }
 
     .welcome-text p{
@@ -2184,5 +2186,15 @@ nav ul li a:hover{
 
     .peta-card{
         width: 100%;
+    }
+
+     .section-title h2{
+        font-size: 32px;
+        line-height: 1.2;
+        word-break: break-word;
+    }
+
+    .peta-title h2{
+        font-size: 32px;
     }
 }
