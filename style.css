@@ -2197,4 +2197,14 @@ nav ul li a:hover{
     .peta-title h2{
         font-size: 32px;
     }
+
+    .info-title h2{
+        font-size: 26px;
+        line-height: 1.3;
+    }
+
+    .potensi-dusun .section-title h2{
+        font-size: 28px;
+        line-height: 1.3;
+    }
 }
